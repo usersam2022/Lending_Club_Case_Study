@@ -39,7 +39,7 @@ consumer factors and loan attributes affect the likelihood of default.
 - EDA(Univariate and Bivariate Analysis)
 
 ## Contact
-Project Created by [@shanunoyalraj and @usersam2011]
+Project Created by [@shanunoyalraj and @usersam2022]
 
 
 <!-- Optional -->
